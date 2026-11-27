@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "version": 6,
-  "file": "catalogs/myosync_standard_food_v6.csv",
-  "sha256": "55610885cbba058327c7a64b093de67c0a6c86168aea5849dbb2bf6020d7ac05",
-  "food_count": 327,
-  "byte_size": 106725,
-  "published_at": "2026-11-25"
+  "version": 7,
+  "file": "catalogs/myosync_standard_food_v7.csv",
+  "sha256": "c252060cbf3095688b5839d63646719cdaeabdb6c0aaddf8bd010ce59e938b04",
+  "food_count": 328,
+  "byte_size": 107310,
+  "published_at": "2026-11-27"
 }
